@@ -11,23 +11,22 @@ Feeling stuck? Need a burst of motivation? Look no further! This web application
 
 ## 🚀 Features:
 
-- **Instant Inspiration**: Click the "Generate Quote" button, and witness the magic unfold. 🪄✨
+- **Instant Inspiration**: Click the "Get Quote" button, and witness the magic unfold. 🪄✨
 - **Share the Wisdom**: Found a gem of a quote? Share it with your friends on social media with just a click. 🌐📲
-- **Save Your Favorites**: Create an account to bookmark your favorite quotes and revisit them whenever you need a lift. 🔖📌
 - **Seamless Design**: An intuitive and sleek interface that focuses on delivering the inspiration you crave without any distractions. 🎨🖼️
 
 ## 🌈 How to Use:
 
 1. Simply head to our website: [QuoteGen.com](https://sayak-bhunia.github.io/Quote_Generator/)
-2. Click the "Generate Quote" button to uncover a treasure trove of wisdom.
+2. Click the "Get Quote" button to uncover a treasure trove of wisdom.
 3. Feeling the quote? Share it or save it for later – the power is in your hands!
 
 ## 🛠️ Installation:
 
 If you're the tech-savvy kind and want to run the Random Quote Generator locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/random-quote-generator.git`
-2. Navigate to the project directory: `cd Quote-Generator`
+1. Clone this repository: `git clone https://github.com/yourusername/quotegen.git`
+2. Navigate to the project directory: `cd quotegen`
 3. Open `index.html` in your browser – voilà!
 
 ## 🤝 Contribute:
